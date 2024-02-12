@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Soumey-gh
+- 👋 Hi, I’m Soumeya
 - 👀 I’m interested in internship 
 - 🌱 I’m currently learning web development (front and back-end)
 - 📫 How to reach me : soumeya.ghalem@le-campus-numerique.fr
