@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Soumeya
+- 👋 Hi, I’m Soumeya 
 - 👀 I’m interested in internship 
-- 🌱 I’m currently learning web development (front and back-end)
+- 🌱 I’m currently learning web development Front-End 
 - 📫 How to reach me : soumeya.ghalem@le-campus-numerique.fr
 
 <!---
